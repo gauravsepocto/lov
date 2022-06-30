@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: codeguru-profiler-agent
+Version: 1.2.4
+Summary: The Python agent to be used for Amazon CodeGuru Profiler
+Home-page: https://github.com/aws/amazon-codeguru-profiler-python-agent
+Author: Amazon Web Services
+License: UNKNOWN
+Download-URL: https://github.com/aws/amazon-codeguru-profiler-python-agent
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: boto3 (>=1.14.0)
+
+## Amazon CodeGuru Profiler Python Agent
+
+For more details, check the documentation: https://docs.aws.amazon.com/codeguru/latest/profiler-ug/what-is-codeguru-profiler.html
+
+## How to use it
+
+This package is being released to PyPI as [codeguru-profiler-agent](https://pypi.org/project/codeguru-profiler-agent), so use it as any Python package from PyPI.
+
+For a demo application that uses this agent, check our [demo application](https://github.com/aws-samples/aws-codeguru-profiler-python-demo-application).
+
+## How to contribute
+
+Check the GitHub repository at [aws/amazon-codeguru-profiler-python-agent](https://github.com/aws/amazon-codeguru-profiler-python-agent).
+
+See [CONTRIBUTING](CONTRIBUTING.md) for details.
+
+## How to release
+
+See [DEVELOPMENT](DEVELOPMENT.md) for more information.
+
+## Security
+
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+
+## License
+
+This project is licensed under the Apache-2.0 License. See [LICENSE](LICENSE) for details.
+
+
+
